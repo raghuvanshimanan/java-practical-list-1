@@ -1,1 +1,1 @@
-# java-practical-list-1
+# java-practical-list
